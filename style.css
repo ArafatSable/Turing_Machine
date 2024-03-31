@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.step {
+    margin-bottom: 10px;
+}
+
+.tape {
+    font-family: monospace;
+}
+
+.state {
+    font-weight: bold;
+}
